@@ -61,7 +61,7 @@ Here are the steps to create a user on a Linux server:
 
 ### Then you need to add the SSH keys of your laptop to that server user.
 
-Certainly, here are the steps to add your SSH keys to a user on a Linux server:
+Here are the steps to add your SSH keys to a user on a Linux server:
 
 1. **Generate SSH Keys on Your Laptop** (If you haven't already):
 
